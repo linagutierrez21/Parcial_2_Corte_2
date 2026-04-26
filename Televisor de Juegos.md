@@ -39,4 +39,4 @@ Antes de mostrar el resultado final, se realiza una animación donde los número
 <img width="752" height="543" alt="image" src="https://github.com/user-attachments/assets/bbe97653-2c88-4ebc-9d1c-5dd56733fbde" />
 
 
- #### Video subido
+ #### Video subido a la Raiz del repositorio
